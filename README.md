@@ -38,9 +38,12 @@ git clone https://github.com/serdararici/react-toDo-app.git
 
 ### 2️⃣  Navigate to the project directory:
 If you don't have Vite installed, you can install it globally:
+```bash
 cd react-toDo-app
+```
 
 Then, install the project dependencies:
+```bash
 npm install
 ```
 
